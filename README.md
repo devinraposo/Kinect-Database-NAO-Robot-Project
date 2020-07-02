@@ -1,1 +1,3 @@
-# Kinect-Database-NAO-Robot-Project
+This is the source code to Devin Raposo's 2016 project for his Software Engineering program, a project which contains three modules: one which records the user's movements using a Kinect camera (C#/Unity), another which connects to a MySQL database to store that data (C#/WPF Forms), then a third which connects to a NAO robot in the FGCU lab and has the robot perform the motions originally recorded using the Kinect (Python). Please contact him at devinraposo at gmail dot com if you would like to use any part of it. All source code by Devin Raposo except where noted.
+
+Copyright © 2020 by Devin Raposo. All rights reserved.
